@@ -1,0 +1,16 @@
+h1, h2, h3 {
+	color:pink;
+}
+
+p {
+	color:red;
+}
+
+div p {
+	font-size:20px;
+	color:purple;
+}
+
+div p a {
+	color:red;
+}
